@@ -1,2 +1,3 @@
 # Simba
 Simba: Your Personalized Desktop Companion
+Simba serves as a desktop assistant, aiding users in their daily computer tasks and activities. Engineered to be a voice-activated, intelligent program, it executes a range of functions including setting reminders, accessing files, internet searches, and email correspondence. Leveraging its natural language processing abilities, Simba comprehends and responds to user commands conversationally. Additionally, it boasts a customizable interface, enabling users to tailor their experience by adding or removing features. Ultimately, Simba strives to streamline computer usage and enhance productivity through its efficient handling of diverse tasks.
